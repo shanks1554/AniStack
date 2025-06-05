@@ -1,0 +1,4 @@
+[core]
+    remote = anistack
+['remote "anistack"']
+    url = gs://my-dvc-bucket15/
